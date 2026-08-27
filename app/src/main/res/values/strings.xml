@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenLock</string>
+    <string name="accessibility_service_label">Digital Wellbeing App-Sperre</string>
+    <string name="accessibility_service_description">Erkennt geoeffnete Apps, um festgelegte Zeitlimits und Sperrlisten durchzusetzen.</string>
+</resources>
